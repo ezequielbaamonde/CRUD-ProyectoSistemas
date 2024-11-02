@@ -1,0 +1,14 @@
+.imagen_colegio{
+    position: absolute;
+    margin: auto;
+    width: 100px;
+    height: 100px;
+}
+
+.pos{
+    position: absolute;
+    /* background-color: red; */
+    float: right;
+    margin-left: 1500px;
+    margin-top: 20px;
+}
